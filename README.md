@@ -1,2 +1,2 @@
 # IMPLANTACAO-DE-FUNCIONARIOS
-CRUD - Cadastro de funcionários (nome, função e salário) c/ possibilidade de edição/exclusão.
+CRUD - Cadastro de funcionários (nome, função e salário) c/ possibilidade de edição/exclusão das informações relatadas.
